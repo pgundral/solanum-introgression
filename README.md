@@ -6,7 +6,7 @@ _Solanum_ is a large genus of over 1200 species of flowering plants in the night
 
 ![tomato phylogeny](data/tomato_clades_messeder.png)
 
-Moderm tomatoes are mostly varieites of _S. lycospericum_, but wild species and wild-crop hybrids grow readily in warm regions of the Americas. It is proposed that _S. pimpinellifolium_ is a wild ancestor of modern tomatoes, and may have contributed a significant portion of genetic material to _S. lycospericum_. However, more recent admixture has occured, either naturally or by intentional breeding, that has conferred traits like disease resistance into moderm varieties ([Menda et. al.](https://doi.org/10.1186/s12870-014-0287-2))
+Moderm tomatoes are mostly varieites of _S. lycospericum_, but wild species and wild-crop hybrids grow readily in warm regions of the Americas. It is proposed that _S. pimpinellifolium_ is a wild ancestor of modern tomatoes, and may have contributed a significant portion of genetic material to _S. lycospericum_. However, more recent admixture has occured, either naturally or by intentional breeding, that has conferred traits like disease resistance into modern varieties ([Menda et. al.](https://doi.org/10.1186/s12870-014-0287-2))
 
 Here, I propose an analysis on chromosomes 1 and 7 of the tomato genome to detect introgressive and selective signals, particularly at loci connected to drought tolerance (below):
 
