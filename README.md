@@ -1,7 +1,7 @@
 # _Solanum sp._ Chromosomes 1, 7, and ASR locus (chr. 4)
 Presentation slides found [here](https://docs.google.com/presentation/d/12gj35cs8-Rthe58NOQjLGDjhq5_ASEWd9iiJhcHTnVs/edit?usp=sharing)
 
-*Currently, an exploratory analysis into cryptic diversity in these samples. More analysis to come!
+*Currently, an exploratory analysis into cryptic diversity in these samples. More work to come!
 
 ## Introduction
 
